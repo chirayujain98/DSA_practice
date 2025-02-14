@@ -1,4 +1,4 @@
-package org.example;
+package org.example.dynamic_programming;
 
 import java.util.Scanner;
 
